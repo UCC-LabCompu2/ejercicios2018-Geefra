@@ -1,0 +1,23 @@
+
+body .sidebar .main{
+    background-color: #7a8aac;
+}
+.sidebar .main{
+    position: relative;
+    float: left;
+}
+.wrap{
+    background-color: white;
+    height: 300px;
+}
+div{
+    margin: 0px 10px;
+}
+.sidebar {
+    heigth: 200px;
+    width: 100px;
+}
+.main{
+    margin-left: 230px;
+    overflow: auto;
+}
