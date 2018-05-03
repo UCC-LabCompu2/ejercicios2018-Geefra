@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image: radial-gradient(lightblue, whitesmoke);
+}
+
+.imag{
+    width: 30%;
+    height: 30%;
+}
+
+.boton{
+    border: 2px solid black;
+    border-radius: 15%;
+}
+
+.teo{
+
+}
+
+a{
+    color: black;
+}
